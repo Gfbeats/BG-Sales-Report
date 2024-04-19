@@ -1,7 +1,9 @@
 # BG-Sales-Report
 This is a sales analysis for a BG store
 
-![OIP](https://github.com/Gfbeats/BG-Sales-Report/assets/159473659/b5206217-c6f0-47a1-9a09-fcb32e234f84)
+
+![OIP (1)](https://github.com/Gfbeats/BG-Sales-Report/assets/159473659/47794b20-52c7-479b-84cf-82ee3f220d7e)
+
 
 # INTRODUCTION
 
@@ -23,7 +25,7 @@ The following commercial inquiries also provided some understanding.
 
 • What is the maximum sale for the company?
 
-# DATA COLLETION
+# DATA COLLECTION
 
 As a capstone project, the dataset used in this work was obtained from @study.utiva.io.
 
